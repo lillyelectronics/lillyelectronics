@@ -1,17 +1,18 @@
-### Hi there 👋
+###  👋 Lilly Liu (She/Her)
+I'm a **campus student** at **Saskatchewan Polytechnic**; studying the 2-year full day program of **Interactive Design and Technology**; I am also a mum of **three kids**. I am **proud** of them all. I am also a **customer service manager** at Walmart Supermarkt, I enjoy my job very much and I love associating with people and helping customers solving problems together. I **cherish** my daily life at **Saskatchewan Polytechnic** everyday as I really enjoy learning new knowledge.
 
-<!--
-**lillyelectronics/lillyelectronics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also run a small e-commerce company to which I used to devote too much. loving working together with my people. 
+ 
+- 💼 [linkedin.com/in/lilyelectronics](https://www.linkedin.com/company/lilly-electronics/))
+- 🐘 [facebook/@lillyelectronics](https://www.facebook.com/lillyelectronics/)
+- 🌐 [instergram](https://www.instagram.com/lillyelectronics/)
+- 🎓 [ticktok.com](https://www.tiktok.com/@lillyelectronics)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my final big assiganment by end of this term.
-- 🌱 I’m currently learning courses mult-128, video, audio, medium social, which is a part of Interative Design and Technology
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: 1-639476-1779
-- 😄 Pronouns: Lilly
-- ⚡ Fun fact: making money
--->
 <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="a picture" style="width: 10%;">
+
+## Tips for Students from my instructor 👨‍🏫
+
+ 1. **ask for help** and be kind to yourself
+ 2. use dev tools, always **read your console**, and check your inspector
+ 3. git commit **early** and often, commit messages longer your code are ok
+ 4. good **communication** is more important than most thing
