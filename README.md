@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Lilly
 - ⚡ Fun fact: making money
 -->
-<img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="a picture" style = "width: 50%;">
+<img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="a picture" style="width: 10%;">
